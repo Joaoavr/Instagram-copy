@@ -144,4 +144,7 @@ body{
     .group{
         border: 1px solid transparent;
     }
+    .download-app{
+      display: none;
+    }
 }

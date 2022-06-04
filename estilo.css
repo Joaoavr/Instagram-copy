@@ -145,6 +145,8 @@ body{
         border: 1px solid transparent;
     }
     .download-app{
-      display: none;
+       height: 3rem;
+    width: 5rem;
+    background-size: cover;
     }
 }

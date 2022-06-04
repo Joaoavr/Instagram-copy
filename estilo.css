@@ -124,7 +124,7 @@ body{
      width: 90%;
     }
 }
-@media (max-width; 650px){
+@media (max-width: 650px){
     
     body{
         background-color: white;

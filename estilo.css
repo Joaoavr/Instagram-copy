@@ -144,9 +144,9 @@ body{
     .group{
         border: 1px solid transparent;
     }
-    .download-app{
-       height: 3rem;
-    width: 5rem;
-    background-size: cover;
-    }
+    .download-app:nth-child(1){
+    background-image: url("apple-button.png");
+    margin-left: 1.4rem;
+}
+  
 }
